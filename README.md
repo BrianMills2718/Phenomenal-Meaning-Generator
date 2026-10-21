@@ -1,3 +1,5 @@
+> **Merged.** This write-up now lives in [phenomenal-meaning](https://github.com/BrianMills2718/phenomenal-meaning) at `sources/2026-09-28-phenomenal-meaning-generator.md`. This repository is archived.
+
 # Phenomenal Meaning Generator
 
 ## Core thesis
